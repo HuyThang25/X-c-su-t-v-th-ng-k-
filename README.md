@@ -1,2 +1,2 @@
-# X-c-su-t-v-th-ng-k-
+# Xac suat va thong ke
 Ngôn ngữ C
