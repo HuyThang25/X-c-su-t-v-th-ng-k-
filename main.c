@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include<conio.h>
 #include<stdlib.h>
-#include<windows.h>
 #include<stdbool.h>
 #include<string.h>
 void nhapMang(int n, double a[],int index[]){
